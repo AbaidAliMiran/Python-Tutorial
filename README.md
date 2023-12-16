@@ -10,7 +10,7 @@ To start learning Python with this tutorial:
 
 ## Contents
 - `Lessons`
-  - `1. Basic of python,variable and data Types.`: Understanding variables, data types, and operations.
+  - [`1. Basic of python,variable and data Types.`](Basic of Python, Variables and Data types): Understanding variables, data types, and operations.
   - `2. Conditional Statement`:  coming soon 
     
 ## Contribution
